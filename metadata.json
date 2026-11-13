@@ -1,0 +1,6 @@
+{
+  "name": "Bopp's Bar & Grill",
+  "description": "Harvard's neighborhood gathering spot at 103 E Front St for cold draft drinks, signature burgers, Friday fish fry, and classic grill fare.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
